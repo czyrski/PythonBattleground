@@ -22,5 +22,7 @@ Important! Prepare input validation inside function body.
 ## Helpful links
 
 [Functions](https://www.learnpython.org/en/Functions)
+
 [Loops](https://www.learnpython.org/en/Loops)
+
 [Conditional statements](https://realpython.com/python-conditional-statements/)
